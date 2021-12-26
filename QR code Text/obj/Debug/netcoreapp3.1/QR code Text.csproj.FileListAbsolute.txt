@@ -1,0 +1,38 @@
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\QR code Text.exe
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\QR code Text.deps.json
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\QR code Text.runtimeconfig.json
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\QR code Text.runtimeconfig.dev.json
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\QR code Text.dll
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\QR code Text.pdb
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\QR code Text.Views.dll
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\QR code Text.Views.pdb
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.AssemblyInfoInputs.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.AssemblyInfo.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.csproj.CoreCompileInputs.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.RazorAssemblyInfo.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.RazorAssemblyInfo.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\staticwebassets\QR code Text.StaticWebAssets.Manifest.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\staticwebassets\QR code Text.StaticWebAssets.xml
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\scopedcss\bundle\QR code Text.styles.css
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.TagHelpers.input.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.TagHelpers.output.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.RazorCoreGenerate.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.RazorTargetAssemblyInfo.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.RazorTargetAssemblyInfo.cs
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.Views.pdb
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.csproj.CopyComplete
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.dll
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.pdb
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.genruntimeconfig.cache
+C:\Users\elsokary\source\repos\QR code Text\QR code Text\obj\Debug\netcoreapp3.1\QR code Text.csprojAssemblyReference.cache
